@@ -89,12 +89,23 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Highlights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravinder1302&show_icons=true&theme=radical&hide=prs"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravinder1302&layout=compact&theme=radical" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ravinder1302&theme=tokyo-night&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravinder1302&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravinder1302&theme=tokyonight" />
+</p>
+
+<!-- Optional badges / credibility line -->
+<p align="center">
+  🏆 Consistent Learner • ⚡ Early Contributor • 🎯 Focused on Quality over Quantity
 </p>
 
 ---
