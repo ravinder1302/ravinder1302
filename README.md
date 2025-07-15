@@ -97,7 +97,8 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/WtTnAfZn6aVJfM9v1G/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="300" />
 </p>
+
 
 <p align="center"><b>Thanks for visiting! Let's build something great together 🙌</b></p>
