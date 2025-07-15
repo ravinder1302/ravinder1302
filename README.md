@@ -88,25 +88,38 @@
 
 ---
 
-## 🛠️ What I'm Building on GitHub
+## 🚀 GitHub Showcase
 
-> I believe GitHub isn’t just about stats — it’s a reflection of what you create, share, and stand for as a developer. Here’s what I’m focusing on right now:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=⚙️+Crafting+code+with+purpose...;🌱+Learning+AI%2FML+and+ServiceNow...;🚀+Pushing+projects+that+solve+real+problems" />
+</p>
 
-| 🚀 Area | ⚡ Project / Activity | 📅 Timeline |
-|--------|------------------------|------------|
-| 🔐 AI + Embedded Security | **SDV** - Smart Vehicle Auth System | Aug–Sep 2025 |
-| 🌾 AI for Agriculture | **Crop Rotation Advisor** | Live |
-| 🛒 Full-Stack App | **ARS Kart** (E-Commerce App) | Done |
-| 🌐 GitHub Profile Setup | Clean UI, animated README | Now |
-| ☁️ ServiceNow Modules | ITSM, Change/Incident Mgmt | Intern Phase (Jan–Jul) |
-| 📚 Open Source Collabs | AI + Backend focused repos | Upcoming |
-| 🎯 Internship Ready | ML/AI + ServiceNow stack | Goal: SDE-4 by Nov 2025 |
+> _“My GitHub isn't a numbers game. It's a vision board of what I’m building, learning, and sharing with the world.”_
 
 ---
 
-⏳ *"Stats will come. But my focus is on solving real problems, learning deeply, and building projects that matter."*
+### 🧭 What I’m Working On:
 
-🙌 Let’s connect and collaborate!
+| 💡 Focus Area             | 🔧 Project Name / Type              | 📅 Timeline        |
+|--------------------------|-------------------------------------|--------------------|
+| 🔐 Embedded AI Security  | `SDV` – Multimodal Vehicle Auth     | Aug–Sep 2025       |
+| 🌾 AgriTech + AI         | `Crop Rotation Advisor` (Web + AI)  | ✅ Live             |
+| 🛒 Full-Stack Engineering| `ARS Kart` – E-Commerce App         | ✅ Completed        |
+| 🌐 Portfolio Dev         | GitHub Profile + UI Cleanup         | 🛠️ In Progress     |
+| ☁️ ServiceNow DevOps     | ITSM Modules, Glide + REST API      | Jan–Jul Internship |
+| 🌟 AI Contributions      | Open Source ML/NLP tools            | 📍 Upcoming        |
+| 🎯 Internship Prep       | DS + Java + ML + System Design      | ⏳ SDE-4 by Nov 2025 |
+
+---
+
+### ✨ Vision Statement
+
+> _“I’m here to build smart, meaningful tech — not just push commits. Quality over noise. Precision over pressure.”_
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="280" />
+</p>
+
 
 
 
@@ -152,9 +165,16 @@
 
 ---
 
+## 🙏 Final Note
+
 <p align="center">
   <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="300" />
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Let's+connect!;Happy+coding+💻🚀" />
+</p>
+
 
 
 <p align="center"><b>Thanks for visiting! Let's build something great together 🙌</b></p>
