@@ -88,27 +88,54 @@
 
 ---
 
-## 🚀 GitHub Showcase
+## 🛠️ What I'm Building
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=⚙️+Crafting+code+with+purpose...;🌱+Learning+AI%2FML+and+ServiceNow...;🚀+Pushing+projects+that+solve+real+problems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Crafting+AI-powered+Projects...;Building+Enterprise+Solutions...;Always+Learning+and+Scaling." />
 </p>
 
-> _“My GitHub isn't a numbers game. It's a vision board of what I’m building, learning, and sharing with the world.”_
-
----
-
-### 🧭 What I’m Working On:
-
-| 💡 Focus Area             | 🔧 Project Name / Type              | 📅 Timeline        |
-|--------------------------|-------------------------------------|--------------------|
-| 🔐 Embedded AI Security  | `SDV` – Multimodal Vehicle Auth     | Aug–Sep 2025       |
-| 🌾 AgriTech + AI         | `Crop Rotation Advisor` (Web + AI)  | ✅ Live             |
-| 🛒 Full-Stack Engineering| `ARS Kart` – E-Commerce App         | ✅ Completed        |
-| 🌐 Portfolio Dev         | GitHub Profile + UI Cleanup         | 🛠️ In Progress     |
-| ☁️ ServiceNow DevOps     | ITSM Modules, Glide + REST API      | Jan–Jul Internship |
-| 🌟 AI Contributions      | Open Source ML/NLP tools            | 📍 Upcoming        |
-| 🎯 Internship Prep       | DS + Java + ML + System Design      | ⏳ SDE-4 by Nov 2025 |
+<table align="center" width="100%">
+  <tr>
+    <th>💡 Focus</th>
+    <th>⚡ Project</th>
+    <th>📅 Status</th>
+  </tr>
+  <tr>
+    <td align="center">🔐 Embedded AI</td>
+    <td><b>SDV</b> – Vehicle Auth System (Face, Gesture, OTP)</td>
+    <td align="center">Aug–Sep 2025 🔄</td>
+  </tr>
+  <tr>
+    <td align="center">🌾 Agri AI</td>
+    <td><b>Crop Rotation Advisor</b> – AI + MongoDB + Flask</td>
+    <td align="center">✅ Live</td>
+  </tr>
+  <tr>
+    <td align="center">🛒 Full Stack</td>
+    <td><b>ARS Kart</b> – React + Node + MySQL + Auth</td>
+    <td align="center">✅ Completed</td>
+  </tr>
+  <tr>
+    <td align="center">🌐 Portfolio</td>
+    <td><b>README Profile</b> – Animated + Styled UI</td>
+    <td align="center">🛠️ In Progress</td>
+  </tr>
+  <tr>
+    <td align="center">☁️ ServiceNow</td>
+    <td><b>ITSM Modules</b> – GlideScript, REST API, Flow Designer</td>
+    <td align="center">✅ Internship (Jan–Jul)</td>
+  </tr>
+  <tr>
+    <td align="center">📚 Open Source</td>
+    <td><b>ML/NLP Utilities</b> – Reusable GitHub-first projects</td>
+    <td align="center">🧠 Upcoming</td>
+  </tr>
+  <tr>
+    <td align="center">🎯 SDE-4 Prep</td>
+    <td><b>ML + Java + System Design</b> for Career Role</td>
+    <td align="center">🎯 Nov 2025 Target</td>
+  </tr>
+</table>
 
 ---
 
@@ -130,10 +157,6 @@
 </p>
 
 
-
-## 🔥 Contribution Graph
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ravinder1302&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 
 ---
