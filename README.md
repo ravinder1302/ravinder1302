@@ -87,19 +87,16 @@
 
 
 ---
-## 🛠️ What I'm Building
+## 🏗️ Blueprints of a Builder
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36F7F7&center=true&vCenter=true&width=500&lines=Currently+Building...;AI+Systems+%F0%9F%A7%A0;Full-stack+Projects+%F0%9F%92%BB;Enterprise+Workflows+on+ServiceNow+%E2%9A%99%EF%B8%8F" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00F7FF&center=true&vCenter=true&width=500&lines=Designing+Tech+That+Scales...;Mapping+Problems+to+Systems+🧠;Turning+Ideas+into+Impact+⚡" />
 </p>
 
+> _“Every line of code is a brick. Every project is a building. I don’t just ship features — I architect solutions.”_
+
 <p align="center">
-  <img src="https://img.shields.io/badge/🔐%20SDV%20Project-Smart%20Vehicle%20Auth-blueviolet?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/🌾%20Crop%20Rotation-Advisor-green?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/🛒%20ARS%20Kart-Full%20Stack%20App-orange?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/☁️%20ServiceNow-ITSM%20%2F%20Flow%20Designer-blue?style=for-the-badge&logo=servicenow&logoColor=white" />
-  <img src="https://img.shields.io/badge/🎯%20SDE--4%20Prep-ML%2C%20System%20Design%2C%20Java-red?style=for-the-badge&logo=target&logoColor=white" />
-  <img src="https://img.shields.io/badge/🚀%20GitHub%20Profile-Custom%20README-lightgrey?style=for-the-badge&logo=github&logoColor=black" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravinder1302&theme=react-dark&hide_border=true&area=true" width="100%" />
 </p>
 
 
@@ -110,13 +107,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravinder1302&theme=react-dark&hide_border=true&area=true" width="100%" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravinder1302&theme=radical" />
-</p>
-
-
-
 
 ---
 
