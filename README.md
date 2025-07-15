@@ -105,16 +105,6 @@
 
 ---
 
-### ✨ Vision Statement
-
-> _“I’m here to build smart, meaningful tech — not just push commits. Quality over noise. Precision over pressure.”_
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="280" />
-</p>
-
----
-
 ## 🚀 Developer Impact Snapshot
 
 <p align="center">
@@ -124,6 +114,7 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravinder1302&theme=radical" />
 </p>
+
 
 
 
@@ -152,40 +143,25 @@
 
 ## 🌐 Let's Connect!
 
-## 🌐 Let's Connect!
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/rravinder1302" target="_blank" style="text-decoration: none; margin: 0 15px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="36" style="vertical-align: middle; transition: transform 0.3s ease;" />
+<div align="left">
+  <a href="https://www.linkedin.com/in/rravinder1302" target="_blank" style="text-decoration: none; margin-right: 30px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" style="vertical-align: middle;" />
     <span style="font-size: 18px; margin-left: 8px;">LinkedIn</span>
   </a>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="mailto:rravinder2658@gmail.com" target="_blank" style="text-decoration: none; margin: 0 15px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="32" style="vertical-align: middle; transition: transform 0.3s ease;" />
+  <a href="mailto:rravinder2658@gmail.com" target="_blank" style="text-decoration: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="28" style="vertical-align: middle;" />
     <span style="font-size: 18px; margin-left: 8px;">Gmail</span>
   </a>
 </div>
-<style>
-a:hover img {
-  transform: scale(1.2);
-}
-</style>
-
 
 
 ---
 
-## 🙏 Final Note
----
+<h2 align="center">🙏 ThankYou!</h2>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Typing code animation" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00F7FF&center=true&vCenter=true&width=550&lines=Thanks+for+visiting!;Happy+Coding+💻;Stay+Curious+🚀;Keep+Building+✨" />
 </p>
 
 <p align="center">
