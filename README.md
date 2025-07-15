@@ -43,7 +43,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
 ### 🌐 Web Development
@@ -89,24 +88,27 @@
 
 ---
 
-## 📊 GitHub Highlights
+## 🛠️ What I'm Building on GitHub
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ravinder1302&theme=tokyo-night&hide_border=true" />
-</p>
+> I believe GitHub isn’t just about stats — it’s a reflection of what you create, share, and stand for as a developer. Here’s what I’m focusing on right now:
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravinder1302&theme=radical&hide_border=true" />
-</p>
+| 🚀 Area | ⚡ Project / Activity | 📅 Timeline |
+|--------|------------------------|------------|
+| 🔐 AI + Embedded Security | **SDV** - Smart Vehicle Auth System | Aug–Sep 2025 |
+| 🌾 AI for Agriculture | **Crop Rotation Advisor** | Live |
+| 🛒 Full-Stack App | **ARS Kart** (E-Commerce App) | Done |
+| 🌐 GitHub Profile Setup | Clean UI, animated README | Now |
+| ☁️ ServiceNow Modules | ITSM, Change/Incident Mgmt | Intern Phase (Jan–Jul) |
+| 📚 Open Source Collabs | AI + Backend focused repos | Upcoming |
+| 🎯 Internship Ready | ML/AI + ServiceNow stack | Goal: SDE-4 by Nov 2025 |
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravinder1302&theme=tokyonight" />
-</p>
+---
 
-<!-- Optional badges / credibility line -->
-<p align="center">
-  🏆 Consistent Learner • ⚡ Early Contributor • 🎯 Focused on Quality over Quantity
-</p>
+⏳ *"Stats will come. But my focus is on solving real problems, learning deeply, and building projects that matter."*
+
+🙌 Let’s connect and collaborate!
+
+
 
 ---
 
