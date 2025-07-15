@@ -125,9 +125,16 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ravinder1302&theme=radical&hide_border=true" />
+</p>
+
+
+
 ## 🔥 Contribution Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ravinder1302&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ravinder1302&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
 
 ---
 
@@ -168,8 +175,9 @@
 ## 🙏 Final Note
 
 <p align="center">
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzQxNzBiZGUwNzMwZjNlNjZkZTg2MzJlZDkxYzA3ODczNjNiYTgzOCZjdD1n/jkSvCVEXWlOla/giphy.gif" width="350" />
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Let's+connect!;Happy+coding+💻🚀" />
