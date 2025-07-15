@@ -85,21 +85,6 @@
   <img src="https://img.shields.io/badge/GlideScript-1F1F1F?style=for-the-badge&logo=javascript&logoColor=white" />
 </p>
 
-
----
-## 🏗️ Blueprints of a Builder
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00F7FF&center=true&vCenter=true&width=500&lines=Designing+Tech+That+Scales...;Mapping+Problems+to+Systems+🧠;Turning+Ideas+into+Impact+⚡" />
-</p>
-
-> _“Every line of code is a brick. Every project is a building. I don’t just ship features — I architect solutions.”_
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravinder1302&theme=react-dark&hide_border=true&area=true" width="100%" />
-</p>
-
-
 ---
 
 ## 🚀 Developer Impact Snapshot
@@ -130,20 +115,22 @@
 - 💼 Secure top-tier ML/Platform Engineering internship
 
 ---
-
 ## 🌐 Let's Connect!
 
 <div align="left">
   <a href="https://www.linkedin.com/in/rravinder1302" target="_blank" style="text-decoration: none; margin-right: 30px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" style="vertical-align: middle;" />
-    <span style="font-size: 18px; margin-left: 8px;">LinkedIn</span>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="22" style="vertical-align: middle;" />
+    <span style="font-size: 16px; margin-left: 8px;">LinkedIn</span>
   </a>
 
+  &nbsp;&nbsp;&nbsp;
+
   <a href="mailto:rravinder2658@gmail.com" target="_blank" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="28" style="vertical-align: middle;" />
-    <span style="font-size: 18px; margin-left: 8px;">Gmail</span>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="20" style="vertical-align: middle;" />
+    <span style="font-size: 16px; margin-left: 8px;">Gmail</span>
   </a>
 </div>
+
 
 
 ---
