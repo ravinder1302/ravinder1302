@@ -113,15 +113,17 @@
   <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="280" />
 </p>
 
-
-
-
 ---
 
+## 🚀 Developer Impact Snapshot
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ravinder1302&theme=radical&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravinder1302&theme=react-dark&hide_border=true&area=true" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravinder1302&theme=radical" />
+</p>
 
 
 
@@ -150,17 +152,27 @@
 
 ## 🌐 Let's Connect!
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/rravinder1302" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" style="vertical-align:middle; margin-right:8px;" />
-    <span style="font-size: 18px;">LinkedIn</span>
+## 🌐 Let's Connect!
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/rravinder1302" target="_blank" style="text-decoration: none; margin: 0 15px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="36" style="vertical-align: middle; transition: transform 0.3s ease;" />
+    <span style="font-size: 18px; margin-left: 8px;">LinkedIn</span>
   </a>
-  <br />
-  <a href="mailto:rravinder2658@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="30" style="vertical-align:middle; margin-right:8px;" />
-    <span style="font-size: 18px;">Gmail</span>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="mailto:rravinder2658@gmail.com" target="_blank" style="text-decoration: none; margin: 0 15px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="32" style="vertical-align: middle; transition: transform 0.3s ease;" />
+    <span style="font-size: 18px; margin-left: 8px;">Gmail</span>
   </a>
-</p>
+</div>
+<style>
+a:hover img {
+  transform: scale(1.2);
+}
+</style>
+
 
 
 ---
@@ -168,30 +180,21 @@
 ## 🙏 Final Note
 ---
 
-## 🙌 Thanks for Visiting!
-
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Typing code animation" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00F7FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let's+connect!;Happy+coding+💻🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00F7FF&center=true&vCenter=true&width=550&lines=Thanks+for+visiting!;Happy+Coding+💻;Stay+Curious+🚀;Keep+Building+✨" />
 </p>
 
 <p align="center">
-  <b>✨ Let's build something impactful, together. You bring the idea — I'll bring the code ⚡</b>
+  <strong>✨ Let's build something impactful together.<br/>
+  You bring the vision — I'll bring the code ⚡</strong>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rravinder1302" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" style="vertical-align:middle;" />
-    <span style="font-size: 16px; margin-left: 8px;">Connect on LinkedIn</span>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:rravinder2658@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30" style="vertical-align:middle;" />
-    <span style="font-size: 16px; margin-left: 8px;">Drop an Email</span>
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
 
 ---
