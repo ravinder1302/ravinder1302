@@ -87,55 +87,21 @@
 
 
 ---
-
 ## 🛠️ What I'm Building
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Crafting+AI-powered+Projects...;Building+Enterprise+Solutions...;Always+Learning+and+Scaling." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36F7F7&center=true&vCenter=true&width=500&lines=Currently+Building...;AI+Systems+%F0%9F%A7%A0;Full-stack+Projects+%F0%9F%92%BB;Enterprise+Workflows+on+ServiceNow+%E2%9A%99%EF%B8%8F" />
 </p>
 
-<table align="center" width="100%">
-  <tr>
-    <th>💡 Focus</th>
-    <th>⚡ Project</th>
-    <th>📅 Status</th>
-  </tr>
-  <tr>
-    <td align="center">🔐 Embedded AI</td>
-    <td><b>SDV</b> – Vehicle Auth System (Face, Gesture, OTP)</td>
-    <td align="center">Aug–Sep 2025 🔄</td>
-  </tr>
-  <tr>
-    <td align="center">🌾 Agri AI</td>
-    <td><b>Crop Rotation Advisor</b> – AI + MongoDB + Flask</td>
-    <td align="center">✅ Live</td>
-  </tr>
-  <tr>
-    <td align="center">🛒 Full Stack</td>
-    <td><b>ARS Kart</b> – React + Node + MySQL + Auth</td>
-    <td align="center">✅ Completed</td>
-  </tr>
-  <tr>
-    <td align="center">🌐 Portfolio</td>
-    <td><b>README Profile</b> – Animated + Styled UI</td>
-    <td align="center">🛠️ In Progress</td>
-  </tr>
-  <tr>
-    <td align="center">☁️ ServiceNow</td>
-    <td><b>ITSM Modules</b> – GlideScript, REST API, Flow Designer</td>
-    <td align="center">✅ Internship (Jan–Jul)</td>
-  </tr>
-  <tr>
-    <td align="center">📚 Open Source</td>
-    <td><b>ML/NLP Utilities</b> – Reusable GitHub-first projects</td>
-    <td align="center">🧠 Upcoming</td>
-  </tr>
-  <tr>
-    <td align="center">🎯 SDE-4 Prep</td>
-    <td><b>ML + Java + System Design</b> for Career Role</td>
-    <td align="center">🎯 Nov 2025 Target</td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/🔐%20SDV%20Project-Smart%20Vehicle%20Auth-blueviolet?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/🌾%20Crop%20Rotation-Advisor-green?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/🛒%20ARS%20Kart-Full%20Stack%20App-orange?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/☁️%20ServiceNow-ITSM%20%2F%20Flow%20Designer-blue?style=for-the-badge&logo=servicenow&logoColor=white" />
+  <img src="https://img.shields.io/badge/🎯%20SDE--4%20Prep-ML%2C%20System%20Design%2C%20Java-red?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/🚀%20GitHub%20Profile-Custom%20README-lightgrey?style=for-the-badge&logo=github&logoColor=black" />
+</p>
+
 
 ---
 
@@ -186,26 +152,47 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/rravinder1302" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" style="vertical-align:middle; margin-right:8px;" />
+    <span style="font-size: 18px;">LinkedIn</span>
   </a>
+  <br />
   <a href="mailto:rravinder2658@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="30" style="vertical-align:middle; margin-right:8px;" />
+    <span style="font-size: 18px;">Gmail</span>
+  </a>
+</p>
+
+
+---
+
+## 🙏 Final Note
+---
+
+## 🙌 Thanks for Visiting!
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Typing code animation" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00F7FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let's+connect!;Happy+coding+💻🚀" />
+</p>
+
+<p align="center">
+  <b>✨ Let's build something impactful, together. You bring the idea — I'll bring the code ⚡</b>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rravinder1302" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" style="vertical-align:middle;" />
+    <span style="font-size: 16px; margin-left: 8px;">Connect on LinkedIn</span>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:rravinder2658@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30" style="vertical-align:middle;" />
+    <span style="font-size: 16px; margin-left: 8px;">Drop an Email</span>
   </a>
 </p>
 
 ---
 
-## 🙏 Final Note
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzQxNzBiZGUwNzMwZjNlNjZkZTg2MzJlZDkxYzA3ODczNjNiYTgzOCZjdD1n/jkSvCVEXWlOla/giphy.gif" width="350" />
-</p>
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Let's+connect!;Happy+coding+💻🚀" />
-</p>
-
-
-
-<p align="center"><b>Thanks for visiting! Let's build something great together 🙌</b></p>
