@@ -45,6 +45,24 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 
+
+## 💼 Experience
+
+### 🛠️ ServiceNow – Platform Developer Intern  
+`Jan 2025 – Jul 2025` · Remote  
+- Developed scalable backend modules using **GlideScript**, **REST APIs**, and **Flow Designer** for ITSM workflows.  
+- Collaborated with global agile teams and participated in sprint planning and daily stand-ups.  
+- Achieved **CSA & CAD certifications**, validating platform development and ServiceNow architecture proficiency.
+
+---
+
+### 🤖 Microsoft – Azure AI Virtual Internship  
+`May 2025 – Jun 2025` · Remote  
+- Built a **Diabetes Prediction ML Model** using Pandas, Scikit-learn, and Streamlit for web deployment.  
+- Trained and evaluated logistic regression/classification models on patient health data.  
+- Gained exposure to **Azure AI Studio**, model deployment pipelines, and ethical AI practices.
+
+
 ### 🌐 Web Development
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
