@@ -16,7 +16,7 @@
 - 🎯 Target Role: **SDE-4 (AI/ML, ServiceNow, Cloud)** at a product-based company
 - 📫 Email: **rravinder2658@gmail.com**
 - 👨‍💼 LinkedIn: [linkedin.com/in/rravinder1302](https://www.linkedin.com/in/rravinder1302)
-- 💻 Portfolio: [Explore the Vibe with me!](https://ravinder1302.github.io/MY-PORTFOLIO/)
+- 💻 Portfolio: [Click here! Explore the Vibe!](https://ravinder1302.github.io/MY-PORTFOLIO/)
 
 
 ---
