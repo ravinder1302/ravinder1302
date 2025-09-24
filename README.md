@@ -23,11 +23,17 @@
 
 ## 🚀 Projects & Research
 
-### 🔐 SDV – Multimodal Vehicle Authentication System
+
+### 📡 ResQLink – Offline Disaster Communication App
+
+Enables victims and volunteers to communicate without internet using offline-first data storage. Victims can submit needs, and volunteers can view & update requests locally.
+**Tech**: Kotlin, Android, Room Database, RecyclerView
+
+### 🔐 SDV – Multimodal Vehicle Authentication System(AI)
 > Combines face, gesture, and voice recognition for smart vehicle access  
 **Tech**: Python, OpenCV, MySQL, Tkinter
 
-### 🌾 Crop Rotation Advisor (AI + Web)
+### 🌾 Crop Rotation Advisor (AI)
 > AI-based advisory system using ANN for environmental pattern detection  
 **Tech**: Python, Keras, Flask, MongoDB, JavaScript
 
@@ -100,9 +106,6 @@
 - Built a **Diabetes Prediction ML Model** using Pandas, Scikit-learn, and Streamlit for web deployment.  
 - Trained and evaluated logistic regression/classification models on patient health data.  
 - Gained exposure to **Azure AI Studio**, model deployment pipelines, and ethical AI practices.
----
-
-
 ---
 
 ## 🏆 Certifications & Achievements
