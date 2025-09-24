@@ -25,7 +25,6 @@
 
 
 ### 📡 ResQLink – Offline Disaster Communication App
-
 > Enables victims and volunteers to communicate without internet using offline-first data storage. Victims can submit needs, and volunteers can view & update requests locally.
 **Tech**: Kotlin, Android, Room Database, RecyclerView
 
